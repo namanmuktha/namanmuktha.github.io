@@ -1,0 +1,42 @@
+
+body
+{
+color : white;
+background-color:black;
+}
+h1
+{
+  color: red;
+}
+p{
+  color: green;
+}
+h2
+{
+  color: orange;
+}
+hr {
+
+height: 10px;
+width: 150px;
+
+border-style: none;
+border-top-style: dotted;
+border-color: white;
+border-width: 5px;
+}
+img {
+height: 50%;
+}
+.naman1
+{
+  border-radius: 100%;
+}
+.naman
+{
+  border-radius: 100%;
+}
+#muktha
+{
+  color: blue;
+}
